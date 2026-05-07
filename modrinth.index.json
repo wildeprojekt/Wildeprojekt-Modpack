@@ -516,21 +516,6 @@
       "fileSize": 274506
     },
     {
-      "path": "mods/ocrenderfix_sodium-fabric-1.2.0.jar",
-      "hashes": {
-        "sha1": "12d71738348a9082ff7f1b613932e4e6d646423b",
-        "sha512": "d43b05cffd0331d77b9aac46365c4d75fd2114f0ab2aab26b21bdbd730e1cca735399c463b84dfe2162ff8869a948519140613c4d1d949c8b5594e0320d1d501"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/jcn9RURP/versions/EFdhB7kM/ocrenderfix_sodium-fabric-1.2.0.jar"
-      ],
-      "fileSize": 133130
-    },
-    {
       "path": "mods/MoreCullingExtra-1.1-1.20.1.jar",
       "hashes": {
         "sha1": "2e20c8818758b4daf8b1dd034d21fef0d13b56a2",

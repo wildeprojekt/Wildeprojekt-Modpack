@@ -1,4 +1,4 @@
-instance.json
-jarmods
-disabledmods
-mods/*
+/*
+!.gitignore
+!overrides/
+!modrinth.index.json
