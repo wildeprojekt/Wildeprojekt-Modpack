@@ -24,8 +24,6 @@ AchievementOptimizer-fabric-1.20.1-1.0.1
 <br>ConquestReforged-fabric-1.20.1-1.5.2
 <br>Controlling-fabric-1.20.1-12.0.2
 <br>Debugify-1.20.1+2.0
-<br>DistantHorizons-3.0.3-b-1.20.1-fabric-forge
-<br>DistantHorizonsApi-6.1.0
 <br>drippyloadingscreen_fabric_3.1.2_MC_1.20.1
 <br>enhancedblockentities-0.9+1.20
 <br>entity_model_features_1.20.1-fabric-3.2.2
@@ -50,8 +48,8 @@ AchievementOptimizer-fabric-1.20.1-1.0.1
 <br>Kiwi-1.20.1-Fabric-11.10.2
 <br>konkrete_fabric_1.8.1_MC_1.20.1
 <br>language-reload-1.7.4+1.20.1
+<br>lazydfu-0.1.3
 <br>lithium-fabric-mc1.20.1-0.11.4
-<br>LuckPerms-Fabric-5.4.102
 <br>MedievalArmsCR-1.0.0
 <br>melody_fabric_1.0.4_MC_1.20.1-1.20.4
 <br>memoryleakfix-fabric-1.17+-1.1.5
@@ -61,14 +59,15 @@ AchievementOptimizer-fabric-1.20.1-1.0.1
 <br>morechathistory-1.3.0
 <br>moreculling-1.20.1-0.24.5
 <br>MoreCullingExtra-1.1-1.20.1
+<br>MouseTweaks-fabric-mc1.20-2.26
 <br>NoChatReports-FABRIC-1.20.1-v2.2.2
-<br>noclip-1.1.5+1.20-fabric
+<br>packetfixer-3.3.0-1.18-1.20.4-merged
 <br>paintbrush-1.2.5
 <br>particle_core-0.3.3+1.20.1
-<br>polytone-1.20-3.5.26-fabric
+<br>polytone-1.20-3.5.22-fabric
 <br>puzzle-fabric-2.3.0+1.20.1
 <br>reeses_sodium_options-1.7.2+mc1.20.1-build.101
-<br>RoughlyEnoughItems-12.1.785-fabric
+<br>ResourcePackOverrides-v8.0.3-1.20.1-Fabric
 <br>Searchables-fabric-1.20.1-1.0.3
 <br>servercore-fabric-1.5.2+1.20.1
 <br>sodium-extra-0.5.9+mc1.20.1
