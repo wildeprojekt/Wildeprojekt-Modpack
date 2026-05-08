@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "0.0.1",
+  "versionId": "0.0.2",
   "name": "Plot Server Project Modpack",
   "summary": "Development modpack for \"SERVER NAME HERE\"",
   "files": [
@@ -156,21 +156,6 @@
       "fileSize": 585207
     },
     {
-      "path": "mods/RoughlyEnoughItems-12.1.785-fabric.jar",
-      "hashes": {
-        "sha1": "2423e7bbc26384e0f927ab81b513787b2d06b52e",
-        "sha512": "1eaf6de6ba640407599767d150aa0c7dd71ad071915bf34d9a06fa8a0a3825882cd0fa966d3f225912f5fb456be38fe58021db9df988f65d667bea102a861a15"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nfn13YXA/versions/nYcMSS03/RoughlyEnoughItems-12.1.785-fabric.jar"
-      ],
-      "fileSize": 2443883
-    },
-    {
       "path": "mods/animatica-0.6.1+1.20.4.jar",
       "hashes": {
         "sha1": "f6abc5ab768db299e688fa2c07dc0840fb57e487",
@@ -306,36 +291,6 @@
       "fileSize": 753298
     },
     {
-      "path": "mods/DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar",
-      "hashes": {
-        "sha1": "90de462112b43f58686573c4e08bfe42e3352133",
-        "sha512": "c107cd7caa856395a30ee1bb235339756e096ef8f65fc489d77c3c85ab600381bbe7b0752f7f677dd41d3aabf5b64151cb3c630eda29ad409366c71888087161"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/uCdwusMi/versions/lcyL2Fq3/DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar"
-      ],
-      "fileSize": 29467253
-    },
-    {
-      "path": "mods/DistantHorizonsApi-6.1.0.jar",
-      "hashes": {
-        "sha1": "30ef6f3961df14183066d14272a3f7a47b040a70",
-        "sha512": "f0604079c77d86762cfdfb7d22c869f6e39c7da703aa03cd90219460deb4a483e28ef3afe36f0ad45ec7a1b3eeea23821f6891c66211fc4bab8ba0803254e4b7"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Xs0XTOVv/versions/dQUW27oF/DistantHorizonsApi-6.1.0.jar"
-      ],
-      "fileSize": 328968
-    },
-    {
       "path": "mods/entityculling-fabric-1.10.1-mc1.20.1.jar",
       "hashes": {
         "sha1": "5277fece9230a4d1eab96266914bc644a8e1b1bb",
@@ -394,21 +349,6 @@
         "https://cdn.modrinth.com/data/gvQqBUqZ/versions/iEcXOkz4/lithium-fabric-mc1.20.1-0.11.4.jar"
       ],
       "fileSize": 691483
-    },
-    {
-      "path": "mods/polytone-1.20-3.5.26-fabric.jar",
-      "hashes": {
-        "sha1": "7728b247698087223d7cd8a150b2ab96d0d2c588",
-        "sha512": "3d71b111ea216755ee35936649e926cb075cbfd7a5e05093a265c5a4bffd0cef369ee5d8768dee42a2d71908a2e95956a139d991c4a71f542cbe9a0796fd8172"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/3qAYkBMB/versions/vDB2gv9o/polytone-1.20-3.5.26-fabric.jar"
-      ],
-      "fileSize": 963630
     },
     {
       "path": "mods/Hearthfire-1.0.4-1.20.1.jar",
@@ -1101,21 +1041,6 @@
       "fileSize": 73375
     },
     {
-      "path": "mods/LuckPerms-Fabric-5.4.102.jar",
-      "hashes": {
-        "sha1": "891e2404c0f9790e704e29faa98241178e29fc20",
-        "sha512": "45058fd2bbd2e7723af01a093ef7233d8a6fa2278a2232dfcc2aa53dae6df7ed78dbfbdb9ee133b19bc36655ccff5a4facdd476319c18e290b284733bf10edff"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Vebnzrzj/versions/7PNj6nCm/LuckPerms-Fabric-5.4.102.jar"
-      ],
-      "fileSize": 1551904
-    },
-    {
       "path": "mods/morechathistory-1.3.0.jar",
       "hashes": {
         "sha1": "346cce5cb5d89e676d8ed0dca05522369063b3c3",
@@ -1144,21 +1069,6 @@
         "https://cdn.modrinth.com/data/qQyHxfxd/versions/HeZZR2kF/NoChatReports-FABRIC-1.20.1-v2.2.2.jar"
       ],
       "fileSize": 619812
-    },
-    {
-      "path": "mods/noclip-1.1.5+1.20-fabric.jar",
-      "hashes": {
-        "sha1": "6fa22173edb1a299d104b7ce1fc98baafcb0b34b",
-        "sha512": "e82360c13390000b829bf64fadd284a383aef70b53e260b98db58fbf01b29fe9150270b65a4ed84c4376a6a42a9374e0924b298497f00113be9099b6eff41b12"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/yDx6WroB/versions/ZFpp6mPh/noclip-1.1.5%2B1.20-fabric.jar"
-      ],
-      "fileSize": 1073703
     },
     {
       "path": "mods/Searchables-fabric-1.20.1-1.0.3.jar",
@@ -1219,6 +1129,111 @@
         "https://cdn.modrinth.com/data/nhSHTGyl/versions/LhWw7AME/weather-changer-fabric-1.0.1.jar"
       ],
       "fileSize": 1065542
+    },
+    {
+      "path": "resourcepacks/ACRP 1.2.0-Fabric.zip",
+      "hashes": {
+        "sha1": "05e2a159fc6840e3543575499ee18bf841d8778c",
+        "sha512": "deb098fb0e8574f0fddd056f195b07f0a05a1a51ada2ad044c3bcb6479432e34a13e7bcb33b1ff307480a2ad9def930009744a39ee9c0d70777a7123f82141bc"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/cKEeKGdn/versions/inWlqDlv/ACRP%201.2.0-Fabric.zip"
+      ],
+      "fileSize": 64537384
+    },
+    {
+      "path": "resourcepacks/RitchforkOverlay-4_6.zip",
+      "hashes": {
+        "sha1": "6bdee381d21f3e188795ad558622b0c17fdbef02",
+        "sha512": "397dea16dd013bd360284c6291e920b487ba38a4b2963df21c388b0d62aefebb7409c913c405563d845d2288085023344eec7d7105f03b7f9628ac95f686aada"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/PdzK7eNs/versions/f42f7VmI/RitchforkOverlay-4_6.zip"
+      ],
+      "fileSize": 46349586
+    },
+    {
+      "path": "mods/ResourcePackOverrides-v8.0.3-1.20.1-Fabric.jar",
+      "hashes": {
+        "sha1": "4caf15fe7fd80186f5bb414ec61628f094570a17",
+        "sha512": "579610209a400400208fd844e27363905cfcde754f97702f6f6c828ac9a628479fecb8f8b04b019f585e5a150858100755fedcbafb01591512e4a31a46930e88"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YsFycamt/versions/2LDowIR8/ResourcePackOverrides-v8.0.3-1.20.1-Fabric.jar"
+      ],
+      "fileSize": 77659
+    },
+    {
+      "path": "mods/MouseTweaks-fabric-mc1.20-2.26.jar",
+      "hashes": {
+        "sha1": "6a6b977e671b1ab625e740fc70fb5300c21bb841",
+        "sha512": "d0faf200dda358efddad2d2809f646023f4dd06254572369e07f3bf33cb6941f0fcdb02db4675b30b4f3bd542cbf6196e135680ba91a2b74c2b071f34978e2d5"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/aC3cM3Vq/versions/mjuG4AYd/MouseTweaks-fabric-mc1.20-2.26.jar"
+      ],
+      "fileSize": 77943
+    },
+    {
+      "path": "mods/polytone-1.20-3.5.22-fabric.jar",
+      "hashes": {
+        "sha1": "53838cbe12464630bc943b06675f36d5f7243278",
+        "sha512": "b44a4d8f5e971cf7601430f94b4281851dfa8969f20d989d16e4603187fe7a87823d248928287358e0b12b1bba307ebbd4923834587379a3e7a3472078136cbe"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/3qAYkBMB/versions/atB31mlR/polytone-1.20-3.5.22-fabric.jar"
+      ],
+      "fileSize": 962865
+    },
+    {
+      "path": "mods/lazydfu-0.1.3.jar",
+      "hashes": {
+        "sha1": "0dfa8b03ed408fb7fdada29e01cfebba02af1049",
+        "sha512": "dc3766352c645f6da92b13000dffa80584ee58093c925c2154eb3c125a2b2f9a3af298202e2658b039c6ee41e81ca9a2e9d4b942561f7085239dd4421e0cce0a"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.3/lazydfu-0.1.3.jar"
+      ],
+      "fileSize": 14531
+    },
+    {
+      "path": "mods/packetfixer-3.3.0-1.18-1.20.4-merged.jar",
+      "hashes": {
+        "sha1": "e07b58008aeae90d61c5324c740cbbd66bbb34e3",
+        "sha512": "0f86b9b03672e67e5eac23146bfc56a536f8985daecaec3bf089ee489240b5afec1571c733fc058c335fdd9e8ace94796c257e4c59a33be7cf1dcba32009c2a1"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/c7m1mi73/versions/Jt7R7s5s/packetfixer-3.3.0-1.18-1.20.4-merged.jar"
+      ],
+      "fileSize": 190422
     }
   ],
   "dependencies": {

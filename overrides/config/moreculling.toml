@@ -1,0 +1,26 @@
+version = 1
+enableSodiumMenu = true
+cloudCulling = false
+signTextCulling = true
+rainCulling = true
+useBlockStateCulling = false
+useCustomItemFrameRenderer = true
+itemFrameMapCulling = true
+useItemFrameLOD = true
+itemFrameLODRange = 16
+useItemFrame3FaceCulling = true
+itemFrame3FaceCullingRange = 2.0
+leavesCullingMode = "DEFAULT"
+leavesCullingAmount = 2
+includeMangroveRoots = false
+endGatewayCulling = false
+beaconBeamCulling = true
+entityModelCulling = false
+useOnModdedBlocksByDefault = true
+
+[modCompatibility]
+hearthfire = true
+conquest = true
+conquest_armory = true
+architects = true
+minecraft = true
