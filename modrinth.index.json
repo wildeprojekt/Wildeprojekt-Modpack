@@ -1324,6 +1324,21 @@
         "https://cdn.modrinth.com/data/faPfMwf9/versions/t6u96aIy/DaylightChangerStruggle-0.0.3%2B1.20.1.jar"
       ],
       "fileSize": 245222
+    },
+    {
+      "path": "mods/PassableFoliage-1.20.1-fabric-8.2.1.jar",
+      "hashes": {
+        "sha1": "9ec63b88c2e7f3672236b48a777ca735086f0d36",
+        "sha512": "f6891f171bba5ebb63621671b7801dfaf8df9c1dc3387633f91a6f59950100ae86679bcaea298589140c01f9ef1f391ccb50f2db65c7a81ede6e5e61c6f4861e"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uaLW6JVR/versions/1xNaGFdB/PassableFoliage-1.20.1-fabric-8.2.1.jar"
+      ],
+      "fileSize": 33824
     }
   ],
   "dependencies": {
