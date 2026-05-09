@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","create:dynamic_data","fabric","file/ACRP 1.2.0-Fabric.zip","file/Project Overlay"]
+resourcePacks:["vanilla","create:dynamic_data","fabric","file/ACRP 1.2.0-Fabric.zip","file/Project Overlay","file/Server Overlay"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -120,10 +120,7 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.noclip.activate_noclip:key.keyboard.grave.accent
-key_key.noclip.activate_flight_speed_scroll:key.keyboard.unknown
-key_key.noclip.reset_flight_speed:key.keyboard.unknown
-key_axiom.keybind.context:key.keyboard.left.alt
+key_axiom.keybind.context:key.keyboard.r
 key_axiom.keybind.builder_tool_slot:key.keyboard.0
 key_axiom.keybind.orbit_camera:key.keyboard.unknown
 key_axiom.keybind.jump_to_block:key.keyboard.unknown
@@ -137,7 +134,7 @@ key_axiom.keybind.toggle_infinite_reach_cap:key.keyboard.unknown
 key_axiom.keybind.toggle_tinker_cap:key.keyboard.unknown
 key_axiom.keybind.toggle_no_updates_cap:key.keyboard.unknown
 key_axiom.keybind.toggle_force_place_cap:key.keyboard.unknown
-key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.r
+key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.unknown
 key_axiom.keybind.toggle_bulldozer_cap:key.keyboard.unknown
 key_axiom.keybind.nudge_with_scroll:key.keyboard.unknown
 key_axiom.keybind.nudge_forwards:key.keyboard.unknown
@@ -148,6 +145,9 @@ key_key.worldeditcui.chunk:key.keyboard.unknown
 key_key.ardabrowser.open_browser:key.keyboard.v
 key_key.ardabrowser.brushPasteRandom:key.keyboard.g
 key_key.ardabrowser.brushUndo:key.keyboard.unknown
+key_key.azurelib.reload:key.keyboard.unknown
+key_key.azurelib.scope:key.keyboard.left.alt
+key_key.azurelib.fire:key.keyboard.unknown
 key_key.camerautils.zoom:key.keyboard.z
 key_key.camerautils.third_person_cam_1:key.keyboard.f6
 key_key.camerautils.third_person_cam_2:key.keyboard.f7
@@ -185,7 +185,7 @@ key_keys.weatherchanger.thunder.name:key.keyboard.unknown
 key_keys.weatherchanger.rain.name:key.keyboard.unknown
 key_keys.weatherchanger.clear.name:key.keyboard.unknown
 key_keys.weatherchanger.off.name:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown

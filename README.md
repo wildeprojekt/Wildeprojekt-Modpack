@@ -1,6 +1,6 @@
 ## Plot Server Project Modpack
 
-Include on export: config, mods, shaderpacks, resourcepacks, instance.png, options.txt
+Include on export: config, mods, shaderpacks, resourcepacks, fancymenu_data, instance.png, options.txt
 
 
 ### Mod list:
@@ -13,8 +13,11 @@ AchievementOptimizer-fabric-1.20.1-1.0.1
 <br>badhorsefix-fabric-3.0.1
 <br>badpackets-fabric-0.4.3
 <br>betterbiomereblend-1.5.2
+<br>BetterF3-7.0.2-Fabric-1.20.1
 <br>BetterGrassify-1.4.4+fabric.1.20.1
 <br>BetterPingDisplay-Fabric-1.20.1-1.1.1
+<br>blur-3.1.0
+<br>c2me-fabric-mc1.20.1-0.2.0+alpha.11.16
 <br>camerautils-fabric-1.20.1-1.0.14
 <br>capes-1.5.2+1.20-fabric
 <br>citresewn-1.2.2+1.20.1
@@ -23,6 +26,7 @@ AchievementOptimizer-fabric-1.20.1-1.0.1
 <br>ConquestArchitects-1.0.2-1.20.1
 <br>ConquestReforged-fabric-1.20.1-1.5.2
 <br>Controlling-fabric-1.20.1-12.0.2
+<br>DaylightChangerStruggle-0.0.3+1.20.1
 <br>Debugify-1.20.1+2.0
 <br>drippyloadingscreen_fabric_3.1.2_MC_1.20.1
 <br>enhancedblockentities-0.9+1.20
@@ -48,6 +52,7 @@ AchievementOptimizer-fabric-1.20.1-1.0.1
 <br>Kiwi-1.20.1-Fabric-11.10.2
 <br>konkrete_fabric_1.8.1_MC_1.20.1
 <br>language-reload-1.7.4+1.20.1
+<br>lavender-0.1.9+1.20
 <br>lazydfu-0.1.3
 <br>lithium-fabric-mc1.20.1-0.11.4
 <br>MedievalArmsCR-1.0.0
@@ -61,6 +66,7 @@ AchievementOptimizer-fabric-1.20.1-1.0.1
 <br>MoreCullingExtra-1.1-1.20.1
 <br>MouseTweaks-fabric-mc1.20-2.26
 <br>NoChatReports-FABRIC-1.20.1-v2.2.2
+<br>owo-lib-0.11.2+1.20
 <br>packetfixer-3.3.0-1.18-1.20.4-merged
 <br>paintbrush-1.2.5
 <br>particle_core-0.3.3+1.20.1
