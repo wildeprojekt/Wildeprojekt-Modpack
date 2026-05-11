@@ -2,8 +2,8 @@
   "formatVersion": 1,
   "game": "minecraft",
   "versionId": "0.0.4",
-  "name": "Plot Server Project Modpack",
-  "summary": "Development modpack for \"SERVER NAME HERE\"",
+  "name": "Wildeprojekt",
+  "summary": "Development modpack for Wildeprojekt",
   "files": [
     {
       "path": "mods/puzzle-fabric-2.3.0+1.20.1.jar",
