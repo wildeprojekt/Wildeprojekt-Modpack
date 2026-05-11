@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "0.0.3",
+  "versionId": "0.0.4",
   "name": "Plot Server Project Modpack",
   "summary": "Development modpack for \"SERVER NAME HERE\"",
   "files": [
@@ -861,21 +861,6 @@
       "fileSize": 10386
     },
     {
-      "path": "mods/suppressopengl1280-1.2.4.jar",
-      "hashes": {
-        "sha1": "e9605080ef1a9c75bc93e3855e41bf5264919d54",
-        "sha512": "d2fe8f45dc18b59a70e17586e1e3afc9f49bb371638e7163fd8196a641d9d3ba34f1656278a9b8cb542ae4572ee3c76a7d4ec3b66f80500f28b55e3ed22ef9e7"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/2U4cBE7v/versions/9qezfaE5/suppressopengl1280-1.2.4.jar"
-      ],
-      "fileSize": 1049914
-    },
-    {
       "path": "mods/collective-1.20.1-8.22.jar",
       "hashes": {
         "sha1": "14928c245ac6966bf9316be5233a8aead943e6d4",
@@ -1339,6 +1324,36 @@
         "https://cdn.modrinth.com/data/uaLW6JVR/versions/1xNaGFdB/PassableFoliage-1.20.1-fabric-8.2.1.jar"
       ],
       "fileSize": 33824
+    },
+    {
+      "path": "resourcepacks/Gentler Weather Sounds 2.2.0.zip",
+      "hashes": {
+        "sha1": "acf6429087da9f8f942ccc842f14820a37856d25",
+        "sha512": "b721a957ceca1d16349406fb5bbf700157eb4d4b4f1e327d94aec8612a7b3aad0f87da0c09afde78ab96a015a2bf40d73486a2e5915795a180eb795d95c33a95"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GB2EXKpD/versions/h9LZVq3I/Gentler%20Weather%20Sounds%202.2.0.zip"
+      ],
+      "fileSize": 2642800
+    },
+    {
+      "path": "mods/suppressopengl1280-1.2.2.jar",
+      "hashes": {
+        "sha1": "81aea6c81043bb2216b6bce7f606c79ed6e5550f",
+        "sha512": "90631cf7edd6794db468373db58e2419db0440b21bc235ac2722cf862905a2012ff50c5a7cfffff894cd5ab67ea173be3196ea7acefb129b889d3affdffa4b5d"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/2U4cBE7v/versions/8j8O7UU2/suppressopengl1280-1.2.2.jar"
+      ],
+      "fileSize": 1058909
     }
   ],
   "dependencies": {

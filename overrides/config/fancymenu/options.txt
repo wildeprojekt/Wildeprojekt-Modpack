@@ -9,7 +9,7 @@ B:play_vanilla_menu_music = 'true';
 
 B:modpack_mode = 'false';
 B:show_customization_overlay = 'false';
-B:advanced_customization_mode = 'false';
+B:advanced_customization_mode = 'true';
 
 
 ##[loading]
@@ -109,7 +109,7 @@ B:enable_element_tilting_controls = 'true';
 
 ##[ui]
 
-B:enable_ui_animations = 'true';
+B:enable_ui_animations = 'false';
 S:ui_scale_v2 = 'auto';
 I:context_menu_hover_open_speed = '1';
 S:ui_theme = 'dark';
