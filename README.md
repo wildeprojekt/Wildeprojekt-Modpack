@@ -1,4 +1,4 @@
-## Plot Server Project Modpack
+## Wildeprojekt Modpack
 
 Include on export: config, mods, shaderpacks, resourcepacks, fancymenu_data, instance.png, options.txt
 
