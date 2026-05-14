@@ -6,7 +6,7 @@
 		"auto_start": false,
 		"animationSpeed": 1.0,
 		"hide_debug_crosshair": false,
-		"background_color": 1867534416,
+		"background_color": -1441722095,
 		"space_modules": true,
 		"always_show_profiler": false,
 		"animations": false,
@@ -27,8 +27,8 @@
 			"memory_color_toggle": true,
 			"time_format": "HH:mm:ss",
 			"name": "system",
-			"name_color": 16777045,
-			"value_color": 16777045,
+			"name_color": 16777215,
+			"value_color": 16759104,
 			"lines": {
 				"opengl_version": false,
 				"allocation_rate": false,
@@ -55,8 +55,8 @@
 		}, 
 		{
 			"name": "target",
-			"name_color": 16777045,
-			"value_color": 16777045,
+			"name_color": 16777215,
+			"value_color": 16759104,
 			"lines": {
 				"id_fluid": false,
 				"fluid_tags": false,
@@ -83,21 +83,21 @@
 			"enabled": true
 		}, 
 		{
-			"color_high": 16777045,
-			"color_med": 16777045,
+			"color_high": 11206570,
+			"color_med": 16777130,
 			"name": "fps",
 			"lines": {
 				"fps": true
 			},
 			"enabled": true,
-			"color_low": 16777045
+			"color_low": 16755370
 		}, 
 		{
-			"color_x": 16777045,
-			"color_y": 16777045,
-			"color_z": 16777045,
+			"color_x": 16755370,
+			"color_y": 11206570,
+			"color_z": 11184895,
 			"name": "coords",
-			"name_color": 16777045,
+			"name_color": 16777215,
 			"lines": {
 				"chunk_coords": true,
 				"player_coords": true,
@@ -108,10 +108,10 @@
 		}, 
 		{
 			"name": "chunks",
-			"chunks_disabled_color": 16733525,
-			"name_color": 16777045,
-			"value_color": 16777045,
-			"total_chunks_color": 16755200,
+			"chunks_disabled_color": 16759104,
+			"name_color": 16777215,
+			"value_color": 16759104,
+			"total_chunks_color": 16759104,
 			"lines": {
 				"chunk_file": true,
 				"available_buffers": false,
@@ -125,13 +125,13 @@
 				"client_chunk_cache": false,
 				"chunk_sections": false
 			},
-			"chunks_enabled_color": 5635925,
+			"chunks_enabled_color": 16759104,
 			"enabled": true
 		}, 
 		{
 			"name": "location",
-			"name_color": 16777045,
-			"value_color": 16777045,
+			"name_color": 16777215,
+			"value_color": 16759104,
 			"lines": {
 				"light": false,
 				"biome": true,

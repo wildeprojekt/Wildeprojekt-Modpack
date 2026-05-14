@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","create:dynamic_data","fabric","file/ACRP 1.2.0-Fabric.zip","file/Project Overlay","file/Server Overlay"]
+resourcePacks:["vanilla","create:dynamic_data","fabric","file/Gentler Weather Sounds 2.2.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -74,7 +74,7 @@ mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
-skipRealms32bitWarning:true
+skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:true
 hideBundleTutorial:false
