@@ -1,3 +1,63 @@
 {
-  "schema_version": "2"
+  "schema_version": "2",
+  "pack_overrides": {
+    "file/Wildeprojekt Overlay": {
+      "title": "\"Wildeprojekt Assets\"",
+      "required": true,
+      "default_position": "TOP",
+      "fixed_position": true
+    },
+    "file/Gentler Weather Sounds 2.2.0.zip": {
+      "title": "\"Gentler Weather Sounds\"",
+      "description": "\"Made by VesMaybeVesper\"",
+      "required": true
+    },
+    "hearthfire:hearthfire_resource_pack": {
+      "hidden": true,
+      "required": true
+    },
+    "fabric": {
+      "hidden": true
+    },
+    "vanilla": {
+      "hidden": true
+    },
+    "create:legacy_copper": {
+      "hidden": true
+    },
+    "programmer_art": {
+      "hidden": true
+    },
+    "minecraft:highlight_extended": {
+      "hidden": true
+    },
+    "high_contrast": {
+      "hidden": true
+    },
+    "continuity:glass_pane_culling_fix": {
+      "hidden": true
+    },
+    "continuity:default": {
+      "hidden": true
+    },
+    "create:dynamic_data": {
+      "hidden": true
+    },
+    "conquest:rp_crrp": {
+      "title": "\"Conquest Reforged Resource Pack\"",
+      "description": "\"Should be enabled if using neither the ArdaCraft or Ritchfork resource packs\""
+    },
+    "file/Project Overlay": {
+      "title": "\"Project Overlay\"",
+      "description": "\"Overlay meant to be used on top of the ArdaCraft Resource Pack\""
+    },
+    "file/ACRP 1.2.0-Fabric.zip": {
+      "title": "\"ArdaCraft Resource Pack\"",
+      "description": "\"Do §lNOT§r use with the Conquest Reforged or Ritchfork resource packs\""
+    },
+    "file/RitchforkOverlay-4_6.zip": {
+      "title": "\"Ritchfork Bayou Overlay\"",
+      "description": "\"Do §lNOT§r use with the Conquest Reforged or ArdaCraft resource packs\""
+    }
+  }
 }

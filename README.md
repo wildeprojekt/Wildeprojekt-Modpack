@@ -1,6 +1,6 @@
 ## Wildeprojekt Modpack
 
-Include on export: config, mods, shaderpacks, resourcepacks, fancymenu_data, instance.png, options.txt
+Include on export: config, data, fancymenu_data, mods, shaderpacks, resourcepacks, icon.png, instance.png, options.txt
 
 
 ### Mod list:
