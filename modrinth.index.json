@@ -1354,36 +1354,6 @@
         "https://cdn.modrinth.com/data/2U4cBE7v/versions/8j8O7UU2/suppressopengl1280-1.2.2.jar"
       ],
       "fileSize": 1058909
-    },
-    {
-      "path": "mods/wm_binaries-3.0.0-rc.1.jar",
-      "hashes": {
-        "sha1": "47864af0b432999cc057e8a459c1decf4b0ba053",
-        "sha512": "9ca5461c910df4600fb0f87f2a3700b6e7e2ffba3326e4b3a8211aaf2d37ddef5a04c654c1af607cf609d97d23603177dd0f666643d35f54f849c8f167fdceed"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/4997XcoK/versions/YPnd5nbu/wm_binaries-3.0.0-rc.1.jar"
-      ],
-      "fileSize": 179378119
-    },
-    {
-      "path": "mods/watermedia-3.0.0.16.jar",
-      "hashes": {
-        "sha1": "5efd80026ada29e7efe588098e95b7fb59f27438",
-        "sha512": "9c5f075cc35eec0c2bb74e1e9452bcbf1c001ebb78cd0f10800ee72d4555b430e5141d47ff9a8faf22b1f4b9c9a24449bbe5979483ac414724eaf4d3edf9f01e"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/G922NeHS/versions/IdnrbQUL/watermedia-3.0.0.16.jar"
-      ],
-      "fileSize": 1512980
     }
   ],
   "dependencies": {
