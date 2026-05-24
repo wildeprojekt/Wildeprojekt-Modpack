@@ -87,9 +87,7 @@ AchievementOptimizer-fabric-1.20.1-1.0.1.jar
 <br> threadtweak-fabric-1.20.2-0.1.1.jar
 <br> tooltipfix-1.1.1-1.20.jar
 <br> vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar
-<br> watermedia-3.0.0.16.jar
 <br> weather-changer-fabric-1.0.1.jar
-<br> wm_binaries-3.0.0-rc.1.jar
 <br> xlpackets-1.0.4-1.20.x.jar
 <br> yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar
 <br> yosbr-0.1.2.jar
