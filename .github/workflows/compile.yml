@@ -50,5 +50,5 @@ jobs:
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ./repo.mrpack
-        asset_name: Wildeprojekt_$(date +%Y-%m-%d-%H-%M-%S).mrpack
+        asset_name: Wildeprojekt_${{ steps.create_tag.outputs.tag_name }}.mrpack
         asset_content_type: application/zip
