@@ -28,7 +28,7 @@ jobs:
         git config --global user.name "GitHub Actions"
         git tag -a version-$(date +%Y-%m-%d-%H-%M-%S) -m "Compile .mrpack"
         git push origin version-$(date +%Y-%m-%d-%H-%M-%S)
-        echo "::set-output name=tag_name::alpha-$(date +%Y-%m-%d-%H-%M-%S)"
+        echo "::set-output name=tag_name::$(date +%Y-%m-%d-%H-%M-%S)"
 
     - name: Create release
       id: create_release
