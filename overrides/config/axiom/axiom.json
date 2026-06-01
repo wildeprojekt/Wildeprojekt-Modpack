@@ -176,8 +176,13 @@
     "shownIntroduction": true,
     "showOpenConfigTip": true,
     "showOpenContextMenuTip": false,
-    "showOpenEditorTip": true,
-    "completedTutorials": [],
+    "showOpenEditorTip": false,
+    "completedTutorials": [
+      "introduction",
+      "box_select_tool",
+      "selection",
+      "magic_select_tool"
+    ],
     "openEditorWindowTypes": [
       "tools",
       "tool_options",
@@ -197,7 +202,7 @@
     "showToolMaskOpenWarning": true,
     "showNon90DegreeRotationWarning": true,
     "showQuickReplaceCtrlClickTip": true,
-    "dockedInventoryWithPalette": false,
+    "dockedInventoryWithPalette": true,
     "rootEditorPalette": {
       "blocks": [],
       "subcategories": {}

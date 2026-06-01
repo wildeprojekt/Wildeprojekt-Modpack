@@ -1,0 +1,16 @@
+{
+    "worldTime": false,
+    "dateOverTicks": false,
+    "smoothButterCycle": true,
+    "disableNightVisionEffect": false,
+    "applyOnPropertyListValueUpdate": false,
+    "commandFeedbackOnLessImportant": true,
+    "disableWorldTimeOnCycleUsage": true,
+    "allowWorldChangeCyclesToWriteToDisk": true,
+    "activeDaylightChanger": "statictime",
+    "cyclesSection": {
+        "statictime": {
+            "worldtime": 6000
+        }
+    }
+}
