@@ -53,11 +53,15 @@
     },
     "file/ACRP 1.2.0-Fabric.zip": {
       "title": "\"\ue691ArdaCraft Resource Pack\"",
-      "description": "\"Do §lNOT§r use with the Conquest Reforged or Ritchfork resource packs\""
+      "description": "\"Do NOT use with the Conquest Reforged or Ritchfork resource packs\""
     },
     "file/RitchforkOverlay-4_6.zip": {
-      "title": "\"\ue599Ritchfork Bayou Overlay\"",
-      "description": "\"Do §lNOT§r use with the Conquest Reforged or ArdaCraft resource packs\""
+      "title": "\"\ue599Ritchfork Bayou Resource Pack\"",
+      "description": "\"Do NOT use with the Conquest Reforged or ArdaCraft resource packs\""
+    },
+    "file/zHighlightLayers.zip": {
+      "title": "\"\ue322Layer Highlight Overlay\"",
+      "description": "\"Makes layers more clearly visible when building terrain\""
     }
   }
 }
