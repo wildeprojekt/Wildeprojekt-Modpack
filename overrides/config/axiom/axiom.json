@@ -102,7 +102,7 @@
     "showAnnotations": true,
     "showRuler": true,
     "keypressOverlay": false,
-    "showKeyHints": true,
+    "showKeyHints": false,
     "showBlockStateTooltip": true,
     "statusBackground": true
   },
@@ -120,7 +120,7 @@
     "noUpdates": false,
     "tinker": false,
     "infiniteReach": false,
-    "infiniteReachLimit": -1,
+    "infiniteReachLimit": 24,
     "fastPlace": false,
     "angelPlacement": false,
     "noClip": false,
@@ -157,7 +157,7 @@
   "entityManipulation": {
     "showDisplayEntities": true,
     "displayEntityRange": 8,
-    "showMarkerEntities": false,
+    "showMarkerEntities": true,
     "markerEntityRange": 24,
     "swapLeftRightClick": false
   },
@@ -215,7 +215,7 @@
     "useVanillaMovementForEditor": true,
     "tallGrassIsActuallyNotTall": false,
     "disableChunkRenderOverrider": false,
-    "hadEditorUIOpen": false,
+    "hadEditorUIOpen": true,
     "blueprintBrowserDirSize": 175
   }
 }

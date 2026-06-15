@@ -10,7 +10,7 @@
     "activeDaylightChanger": "statictime",
     "cyclesSection": {
         "statictime": {
-            "worldtime": 6000
+            "worldtime": 4000
         }
     }
 }
