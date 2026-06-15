@@ -157,7 +157,7 @@
   "entityManipulation": {
     "showDisplayEntities": true,
     "displayEntityRange": 8,
-    "showMarkerEntities": true,
+    "showMarkerEntities": false,
     "markerEntityRange": 24,
     "swapLeftRightClick": false
   },

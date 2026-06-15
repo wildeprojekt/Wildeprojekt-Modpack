@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1779801361531
+  last_edited_time = 1781532323741
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:b6366260-f0b5-4116-ae59-42885fa9fe9f-1779801324057] = [groups:][instances:]
+  [loading_requirement_container_meta:09e81d7c-9a62-458a-8c50-40c5ea4c9fd6-1781532315127] = [groups:][instances:]
 }
 
 menu_background {
@@ -28,7 +28,7 @@ menu_background {
 menu_background {
   instance_identifier = 82832c7c-1b37-4aaa-aeee-ce01f28cee0f-1779207490172
   background_type = image
-  show_background = true
+  show_background = false
   image_path = [source:local]/config/fancymenu/assets/loadingbackground.png
   slide = false
   repeat_texture = false
