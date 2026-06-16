@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "0.1.0",
+  "versionId": "0.2.0",
   "name": "Wildeprojekt",
   "summary": "Development modpack for Wildeprojekt",
   "files": [
@@ -1339,6 +1339,21 @@
         "https://cdn.modrinth.com/data/OsZiaDHq/versions/FCFuCzMC/CreativeCore_FABRIC_v2.12.38_mc1.20.1.jar"
       ],
       "fileSize": 1197198
+    },
+    {
+      "path": "mods/perspectivenametag-fabric-1.2.0+1.15.jar",
+      "hashes": {
+        "sha1": "b3824e5137ba386c3fcabb8db2df10ce6a01474d",
+        "sha512": "25444d573f7cf1ba40057aa808e928b34c3cde1efe73a5d7347e00d92feadaa470b013fac58c0f5e9c26bd33de0957a3875d207461e0f9207335d1b1892d9f16"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/7vrSE44N/versions/465BKiDV/perspectivenametag-fabric-1.2.0%2B1.15.jar"
+      ],
+      "fileSize": 15155
     }
   ],
   "dependencies": {
