@@ -3,7 +3,7 @@
   "game": "minecraft",
   "versionId": "0.2.0",
   "name": "Wildeprojekt",
-  "summary": "Development modpack for Wildeprojekt",
+  "summary": "Conquest Reforged based modpack for the Wildeprojekt plot and community building server.",
   "files": [
     {
       "path": "mods/puzzle-fabric-2.3.0+1.20.1.jar",
@@ -199,21 +199,6 @@
         "https://cdn.modrinth.com/data/AANobbMI/versions/OihdIimA/sodium-fabric-0.5.13%2Bmc1.20.1.jar"
       ],
       "fileSize": 971552
-    },
-    {
-      "path": "mods/ConquestReforged-fabric-1.20.1-1.5.2.jar",
-      "hashes": {
-        "sha1": "c48d4e45017e437b1a542b035a666c9fe97c6cc8",
-        "sha512": "c021ee87e26fc2fd8260de1079bc36018db64e6e87451ecff6f33e4afc9b5f49f710843b2133076bdc4b2478080864dacdf38a355acd26055f241080418dbad5"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/s93iojuG/versions/oDux5hRC/ConquestReforged-fabric-1.20.1-1.5.2.jar"
-      ],
-      "fileSize": 223847994
     },
     {
       "path": "mods/ferritecore-6.0.1-fabric.jar",
@@ -1354,6 +1339,21 @@
         "https://cdn.modrinth.com/data/7vrSE44N/versions/465BKiDV/perspectivenametag-fabric-1.2.0%2B1.15.jar"
       ],
       "fileSize": 15155
+    },
+    {
+      "path": "mods/ConquestReforged-fabric-1.20.1-1.6.0.jar",
+      "hashes": {
+        "sha1": "fd1b3e0e7ded60859ce69539d36468192b605000",
+        "sha512": "96ab484ab6f02f6a277029cc2115e695298bbbb8abe38a8216a8a86344eb171317a13112b188efddf0d1d8bc5f9ee606840d707b8182944e2e0fcef0f53234dd"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/s93iojuG/versions/xbHOo7sH/ConquestReforged-fabric-1.20.1-1.6.0.jar"
+      ],
+      "fileSize": 228409287
     }
   ],
   "dependencies": {
