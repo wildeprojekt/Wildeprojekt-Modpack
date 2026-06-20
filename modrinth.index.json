@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "0.2.0",
+  "versionId": "0.2.1",
   "name": "Wildeprojekt",
   "summary": "Conquest Reforged based modpack for the Wildeprojekt plot and community building server.",
   "files": [
@@ -1146,21 +1146,6 @@
       "fileSize": 565302
     },
     {
-      "path": "mods/collective-1.20.1-8.25.jar",
-      "hashes": {
-        "sha1": "5ec26087b60946e24048bce96997b90b55e6369b",
-        "sha512": "cab283b987932be0f87afed3921b6f02b224a1c66d88cb9383420448245cdfa9fa08dbe107fbf4be3a9d2e10d949e96a42bb3a23f690d987860de70bd5535a82"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/e0M1UDsY/versions/lH1VBD4w/collective-1.20.1-8.25.jar"
-      ],
-      "fileSize": 697968
-    },
-    {
       "path": "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.18.jar",
       "hashes": {
         "sha1": "ffeeafb265d7f0914e9b96ab70a1181d3642773a",
@@ -1174,21 +1159,6 @@
         "https://cdn.modrinth.com/data/VSNURh3q/versions/fyt7FtgA/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.18.jar"
       ],
       "fileSize": 1426510
-    },
-    {
-      "path": "mods/entityculling-fabric-1.10.2-mc1.20.1.jar",
-      "hashes": {
-        "sha1": "668b0ef39e6b87122fefb5392585e8bb85d867e8",
-        "sha512": "eecba08b7c0aada4eb14b5f6c79e48995ea6203db35a3aa55a69538d4b5f9bd865c290573aba8e621ac86d90c0b5b5cb6bedd93eedc8717ee71c0427281d850a"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/rpOQImBG/entityculling-fabric-1.10.2-mc1.20.1.jar"
-      ],
-      "fileSize": 1589955
     },
     {
       "path": "mods/fabric-api-0.92.9+1.20.1.jar",
@@ -1234,21 +1204,6 @@
         "https://cdn.modrinth.com/data/Wq5SjeWM/versions/CIMrqM91/fancymenu_fabric_3.9.1_MC_1.20.1.jar"
       ],
       "fileSize": 25649467
-    },
-    {
-      "path": "mods/Ixeris-4.4.1+1.20.1-fabric.jar",
-      "hashes": {
-        "sha1": "f065818c87db2f81561adeea1139c53e0fb1082a",
-        "sha512": "74c7ed647518cfd8d3a92aa0faa896251a129b78c6b6f1f08f27669189628fa9bd3bc68f6cf5216af98a2db59ee374826c3169710b80f7ec3817bc8c5d1ae9f1"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/p8RJPJIC/versions/FvIJAQV5/Ixeris-4.4.1%2B1.20.1-fabric.jar"
-      ],
-      "fileSize": 722000
     },
     {
       "path": "mods/Kiwi-1.20.1-Fabric-11.10.3.jar",
@@ -1354,6 +1309,66 @@
         "https://cdn.modrinth.com/data/s93iojuG/versions/xbHOo7sH/ConquestReforged-fabric-1.20.1-1.6.0.jar"
       ],
       "fileSize": 228409287
+    },
+    {
+      "path": "mods/NoChatRestrictions-Fabric-MC1.20.1-v1.0.0.jar",
+      "hashes": {
+        "sha1": "9eb4278d8cb2872cecb9385c22b73a5740705980",
+        "sha512": "4bc8f15837ab3b6c8a8f6ccd5d07e16c53a57bdf71aec4c305230995e3699cd5c42c06ebfb0d7fdb0b2fb5b1c1d66d3ef461f849259683921b6903786e1e3b7c"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/z440MEwJ/versions/vkSDsmSD/NoChatRestrictions-Fabric-MC1.20.1-v1.0.0.jar"
+      ],
+      "fileSize": 9747
+    },
+    {
+      "path": "mods/collective-1.20.1-8.29.jar",
+      "hashes": {
+        "sha1": "eb3efd187a9b1ad4c8d52000e4794e5c7b7ff6ea",
+        "sha512": "53123a37b3b20451bae1d13d37aad0057105297aa3720cb2ed02e52e76f02cf2c932dc16cf5f453d70afe361dfb7ee09c4ca8f2bddc6eab1f8f81506f8f9056a"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/e0M1UDsY/versions/JXygO4NK/collective-1.20.1-8.29.jar"
+      ],
+      "fileSize": 723677
+    },
+    {
+      "path": "mods/entityculling-fabric-1.10.4-mc1.20.1.jar",
+      "hashes": {
+        "sha1": "a29a2a3092439ec2a010e06804051b045f5916d5",
+        "sha512": "3b5d74184c311f23270f0ca6b101b4fb808d4c108fc0939447b1a055b68fea7e995823f52de7d99bc479c42c07343e529656ec9fb8770bd21f529048ea5f0c76"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/KDn2fbYZ/entityculling-fabric-1.10.4-mc1.20.1.jar"
+      ],
+      "fileSize": 1592562
+    },
+    {
+      "path": "mods/Ixeris-4.5.0+1.20.1-fabric.jar",
+      "hashes": {
+        "sha1": "971583d4a76d330be5d911580f0220e0ba70789e",
+        "sha512": "7fae3fb098b3829a6751f2a1a910b77f1b22c1699784e9e6999f0091c8760899d10cd4620e4676e947aaa4db43667ae902dee3f5fd31db50dea6db179df439c8"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/p8RJPJIC/versions/lKsgUgLr/Ixeris-4.5.0%2B1.20.1-fabric.jar"
+      ],
+      "fileSize": 722312
     }
   ],
   "dependencies": {
