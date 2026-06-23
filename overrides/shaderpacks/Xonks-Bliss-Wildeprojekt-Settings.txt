@@ -1,4 +1,4 @@
-#Sun Apr 19 18:11:15 BST 2026
+#Tue Jun 23 12:59:26 CEST 2026
 shadowDistance=224.0
 SHARPENING=40
 CloudLayer0_coverage=0.6
@@ -25,7 +25,7 @@ MINIMUM_WATER_ABSORBANCE=6
 CROSSTALK=0.16
 NOISE_RESOLUTION=32
 ambientsss_brightness=0.5
-sunPathRotation=-42
+sunPathRotation=-31
 maxRayMarchSteps=35
 ambientOcclusionLevel=0.05
 sss_absorbance_multiplier=0.5
@@ -38,7 +38,6 @@ TOD_Fog_mult=0.25
 Dirt_Scatter_B=0.2
 BorderFog=false
 Dirt_Scatter_G=0.15
-WHITE_BALANCE=7000
 Sun_temp=6200
 OLD_CAVE_DETECTION=false
 DISABLE_VANILLA_EMISSIVES=true
@@ -55,5 +54,4 @@ WAVY_STRENGTH=0.75
 MISC_BLOCK_SSS=true
 BLOOM_STRENGTH=0.25
 BLOOMY_PARTICLES=true
-SATURATION=-0.28
 Dirt_Amount=2.0
