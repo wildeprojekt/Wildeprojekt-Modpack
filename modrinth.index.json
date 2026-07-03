@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "0.2.1",
+  "versionId": "0.3.0",
   "name": "Wildeprojekt",
   "summary": "Conquest Reforged based modpack for the Wildeprojekt plot and community building server.",
   "files": [
@@ -336,21 +336,6 @@
       "fileSize": 64763
     },
     {
-      "path": "mods/BetterGrassify-1.4.4+fabric.1.20.1.jar",
-      "hashes": {
-        "sha1": "76e1e92f1ed91ef31e4c70ca62186494b2683604",
-        "sha512": "282323691606ec631de08abe55aede0d61597a0e068553f5b92a6d2de7a32473d054729deddec77e51a262addde9306cfae5c6c438fa59609984c277c013dab8"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/m5T5xmUy/versions/GVS6ujFJ/BetterGrassify-1.4.4%2Bfabric.1.20.1.jar"
-      ],
-      "fileSize": 152476
-    },
-    {
       "path": "mods/moreculling-1.20.1-0.24.5.jar",
       "hashes": {
         "sha1": "5110436d5f7867033744d2c065c44986730d79aa",
@@ -424,21 +409,6 @@
         "https://cdn.modrinth.com/data/MS1ZMyR7/versions/FbxcDBxy/BetterPingDisplay-Fabric-1.20.1-1.1.1.jar"
       ],
       "fileSize": 16226
-    },
-    {
-      "path": "mods/capes-1.5.2+1.20-fabric.jar",
-      "hashes": {
-        "sha1": "5444e301346383f6133189e66069e970d4a126fc",
-        "sha512": "e8e0b46e6a7da55e83a3883497e29666941cf865c6166b319d56ba574a5124d864353be257c05468f3626813c28544c69fb8015fb24acc41a7ef9356b83714eb"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/89Wsn8GD/versions/z2zOEvPP/capes-1.5.2%2B1.20-fabric.jar"
-      ],
-      "fileSize": 170082
     },
     {
       "path": "mods/Debugify-1.20.1+2.0.jar",
@@ -906,21 +876,6 @@
       "fileSize": 1065542
     },
     {
-      "path": "resourcepacks/ACRP 1.2.0-Fabric.zip",
-      "hashes": {
-        "sha1": "05e2a159fc6840e3543575499ee18bf841d8778c",
-        "sha512": "deb098fb0e8574f0fddd056f195b07f0a05a1a51ada2ad044c3bcb6479432e34a13e7bcb33b1ff307480a2ad9def930009744a39ee9c0d70777a7123f82141bc"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/cKEeKGdn/versions/inWlqDlv/ACRP%201.2.0-Fabric.zip"
-      ],
-      "fileSize": 64537384
-    },
-    {
       "path": "resourcepacks/RitchforkOverlay-4_6.zip",
       "hashes": {
         "sha1": "6bdee381d21f3e188795ad558622b0c17fdbef02",
@@ -1356,6 +1311,66 @@
       "fileSize": 1592562
     },
     {
+      "path": "mods/continuity-3.0.0+1.20.1.jar",
+      "hashes": {
+        "sha1": "b9b3908c93efed3da5ad7caaf733b9d5b678c85f",
+        "sha512": "7205cae3c534fd5d5328a9659146911381c06e54da995aabd11745ad72def5bd5120b7cb792fab2e8dcaa4670c23bdba21079b8f6da94152cfc6ea4b415edcbf"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1IjD5062/versions/qGTDcjHM/continuity-3.0.0%2B1.20.1.jar"
+      ],
+      "fileSize": 1016063
+    },
+    {
+      "path": "mods/ArdaGrass-1.2-1.20.1.jar",
+      "hashes": {
+        "sha1": "4610f6aa4c6b271ef9e5bafebcdb48c872e432ef",
+        "sha512": "f2833f655eab94e7a06cb1ff0c8f3d421e19decabe0b3ebd95d246d657d2ad9b4b387dea3347775f0318faf9a04adaeaa878c9c546d93d48d4a321ec8f684456"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/90wM2vXN/versions/SmrYq3hi/ArdaGrass-1.2-1.20.1.jar"
+      ],
+      "fileSize": 42643
+    },
+    {
+      "path": "mods/capes-1.5.2+1.20-fabric.jar",
+      "hashes": {
+        "sha1": "5444e301346383f6133189e66069e970d4a126fc",
+        "sha512": "e8e0b46e6a7da55e83a3883497e29666941cf865c6166b319d56ba574a5124d864353be257c05468f3626813c28544c69fb8015fb24acc41a7ef9356b83714eb"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/89Wsn8GD/versions/z2zOEvPP/capes-1.5.2%2B1.20-fabric.jar"
+      ],
+      "fileSize": 170082
+    },
+    {
+      "path": "mods/Ixeris-4.5.1+1.20.1-fabric.jar",
+      "hashes": {
+        "sha1": "264fd2cddba7f3a6a467bea77fabd87b32a7e4fd",
+        "sha512": "593122259f19dc289409fedda4e5f86c42e45668af196e455e8c2725cc384b27371978565cec663aa16e33fb380c0a6e382a6ecb888b613226ade8b203575eee"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/p8RJPJIC/versions/iI0sa9zh/Ixeris-4.5.1%2B1.20.1-fabric.jar"
+      ],
+      "fileSize": 722335
+    },
+    {
       "path": "mods/Ixeris-4.5.0+1.20.1-fabric.jar",
       "hashes": {
         "sha1": "971583d4a76d330be5d911580f0220e0ba70789e",
@@ -1369,6 +1384,21 @@
         "https://cdn.modrinth.com/data/p8RJPJIC/versions/lKsgUgLr/Ixeris-4.5.0%2B1.20.1-fabric.jar"
       ],
       "fileSize": 722312
+    },
+    {
+      "path": "resourcepacks/ACRP 1.2.2-Fabric.zip",
+      "hashes": {
+        "sha1": "f5c3549ac57852d0ae495e0d994135ad46e6fa97",
+        "sha512": "9bdf5b967bfa64f44c31270a0afa298847fcdedc7141ed996cd4076fd01660171e583ce54f9f10f3568099b9fd4ad1e6c9ed84aad30e909c47bcc0c922f1909a"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/cKEeKGdn/versions/JdWCe1Tp/ACRP%201.2.2-Fabric.zip"
+      ],
+      "fileSize": 68172725
     }
   ],
   "dependencies": {
