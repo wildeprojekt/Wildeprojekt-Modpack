@@ -28,7 +28,7 @@
 			"time_format": "HH:mm:ss",
 			"name": "system",
 			"name_color": 16777215,
-			"value_color": 16759104,
+			"value_color": 15774531,
 			"lines": {
 				"opengl_version": false,
 				"allocation_rate": false,
@@ -56,7 +56,7 @@
 		{
 			"name": "target",
 			"name_color": 16777215,
-			"value_color": 16759104,
+			"value_color": 15774531,
 			"lines": {
 				"id_fluid": false,
 				"fluid_tags": false,
@@ -108,10 +108,10 @@
 		}, 
 		{
 			"name": "chunks",
-			"chunks_disabled_color": 16759104,
+			"chunks_disabled_color": 15774531,
 			"name_color": 16777215,
-			"value_color": 16759104,
-			"total_chunks_color": 16759104,
+			"value_color": 15774531,
+			"total_chunks_color": 15774531,
 			"lines": {
 				"chunk_file": true,
 				"available_buffers": false,
@@ -125,13 +125,13 @@
 				"client_chunk_cache": false,
 				"chunk_sections": false
 			},
-			"chunks_enabled_color": 16759104,
+			"chunks_enabled_color": 15774531,
 			"enabled": true
 		}, 
 		{
 			"name": "location",
 			"name_color": 16777215,
-			"value_color": 16759104,
+			"value_color": 15774531,
 			"lines": {
 				"light": false,
 				"biome": true,
