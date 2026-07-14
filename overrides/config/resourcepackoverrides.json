@@ -1,7 +1,7 @@
 {
   "schema_version": "2",
   "pack_overrides": {
-    "file/Wildeprojekt Overlay": {
+    "file/Wildeprojekt Overlay.zip": {
       "title": "\"\ue690Wildeprojekt Assets\"",
       "required": true,
       "default_position": "TOP",
@@ -10,7 +10,7 @@
     "file/Gentler Weather Sounds 2.2.0.zip": {
       "title": "\"\ue332Gentler Weather Sounds\"",
       "description": "\"Made by VesMaybeVesper\"",
-      "required": true
+      "required": true  
     },
     "hearthfire:hearthfire_resource_pack": {
       "hidden": true,
@@ -47,7 +47,7 @@
       "title": "\"\ue689Conquest Reforged Resource Pack\"",
       "description": "\"Should be enabled if using neither the ArdaCraft or Ritchfork resource packs\""
     },
-    "file/HFranz Overlay": {
+    "file/HFranz Overlay 1.0.zip": {
       "title": "\"\ue334HFranz Overlay\"",
       "description": "\"Overlay meant to be used on top of the ArdaCraft Resource Pack\""
     },
