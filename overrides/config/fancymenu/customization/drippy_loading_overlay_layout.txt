@@ -359,8 +359,8 @@ element {
   fade_in_v2 = no_fading
   fade_out = no_fading
   auto_sizing = false
-  auto_sizing_base_screen_width = 2560
-  auto_sizing_base_screen_height = 1440
+  auto_sizing_base_screen_width = 3840
+  auto_sizing_base_screen_height = 2160
   sticky_anchor = false
   anchor_point = mid-centered
   x = -156
@@ -422,8 +422,8 @@ element {
   fade_in_v2 = first_time
   fade_out = no_fading
   auto_sizing = false
-  auto_sizing_base_screen_width = 2560
-  auto_sizing_base_screen_height = 1440
+  auto_sizing_base_screen_width = 3840
+  auto_sizing_base_screen_height = 2160
   sticky_anchor = false
   anchor_point = mid-centered
   x = -110
