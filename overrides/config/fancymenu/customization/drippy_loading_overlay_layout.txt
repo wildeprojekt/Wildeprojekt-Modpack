@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1781532323741
+  last_edited_time = 1784312100762
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:09e81d7c-9a62-458a-8c50-40c5ea4c9fd6-1781532315127] = [groups:][instances:]
+  [loading_requirement_container_meta:e71cbc12-c017-4632-81bd-687be0c266fa-1784311946652] = [groups:][instances:]
 }
 
 menu_background {
@@ -364,7 +364,7 @@ element {
   sticky_anchor = false
   anchor_point = mid-centered
   x = -156
-  y = -44
+  y = -48
   width = 312
   height = 87
   stay_on_screen = true
@@ -414,7 +414,7 @@ element {
 }
 
 element {
-  color = #FFFFFFFF
+  color = #e2d9c9
   element_type = drippy_vanilla_bar
   instance_identifier = 8ddb6486-4661-4759-b780-d174058b87c8-1779207491189
   appearance_delay = no_delay
@@ -426,10 +426,10 @@ element {
   auto_sizing_base_screen_height = 1440
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -98
-  y = 32
-  width = 196
-  height = 7
+  x = -110
+  y = 30
+  width = 220
+  height = 6
   stay_on_screen = true
   element_loading_requirement_container_identifier = ec3874f7-48e7-4c34-bc3a-ffccd366cd1f-1779206970362
   [loading_requirement_container_meta:ec3874f7-48e7-4c34-bc3a-ffccd366cd1f-1779206970362] = [groups:][instances:]
