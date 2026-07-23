@@ -1,9 +1,9 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "0.5.0",
+  "versionId": "1.0",
   "name": "Wildeprojekt",
-  "summary": "Wildeprojekt, the official Conquest Reforged plots server - independently operated by the community, endorsed by the developers.",
+  "summary": "Wildeprojekt, the Official Conquest Reforged Plots and Project Server - independently operated by the community, endorsed by the developers.",
   "files": [
     {
       "path": "mods/puzzle-fabric-2.3.0+1.20.1.jar",
