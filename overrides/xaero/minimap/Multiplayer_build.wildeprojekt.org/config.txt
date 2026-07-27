@@ -1,0 +1,22 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+defaultMultiworldId:mw2,1,1
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:plotsquared$medium:minecraft$overworld
+dimensionType:plotsquared$mini:minecraft$overworld
+dimensionType:multiworld$project_creativenode:minecraft$overworld
+dimensionType:multiworld$project_cakov:minecraft$overworld
+dimensionType:plotsquared$large:minecraft$overworld
+dimensionType:plotsquared$small:minecraft$overworld
+dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:multiworld$project_deithwen:minecraft$overworld
+//third-party waypoints
