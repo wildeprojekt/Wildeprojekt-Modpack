@@ -1,7 +1,7 @@
 {
   "schema_version": "2",
   "pack_overrides": {
-    "file/Wildeprojekt Overlay.zip": {
+    "file/Wildeprojekt_Overlay.zip": {
       "title": "\"\ue690Wildeprojekt Assets\"",
       "required": true,
       "default_position": "TOP",
