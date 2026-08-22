@@ -1,0 +1,15 @@
+{
+  "_help": "Edit this file while the server is stopped, or run /sintel config reload after editing it. This config is intentionally global permissions/control only. Smoke emitters are stored in each world save so they do not leak between maps.",
+  "version": 3,
+  "serverControl": {
+    "_help": "Server-authoritative mode is always enabled. The client renders smoke, but the server owns placement, permissions, and world-specific emitter storage.",
+    "serverAuthoritative": true
+  },
+  "permissions": {
+    "_help": "Global access can come from Fabric Permissions API nodes (sintel.builder / sintel.admin) and/or Sintel's internal builder list. Set enableInternalBuilderList=false for servers that want LuckPerms/Fabric permissions to be the only global access source. opFallbackForAdmin lets vanilla ops count as Sintel admins when no/insufficient permission node is configured.",
+    "useFabricPermissionsApi": true,
+    "enableInternalBuilderList": true,
+    "opFallbackForAdmin": true,
+    "allowedBuilders": []
+  }
+}

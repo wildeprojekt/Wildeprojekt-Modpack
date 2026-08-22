@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:4
 renderClouds:"false"
-resourcePacks:["vanilla","create:dynamic_data","fabric","file/Gentler Weather Sounds 2.2.0.zip","hearthfire:hearthfire_resource_pack","conquest:rp_crrp"]
+resourcePacks:["vanilla","create:dynamic_data","fabric","file/Gentler Weather Sounds 2.2.0.zip","hearthfire:hearthfire_resource_pack","architects:architects_resource_pack","conquest:rp_crrp"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -184,6 +184,8 @@ key_key.gamma_utils.night_vision_toggle:key.keyboard.h
 key_key.mathiasfabric.smoke_ui:key.keyboard.o
 key_key.mathiasfabric.smoke_cycle_mode:key.keyboard.i
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.paintbrush.filter_foliage:key.keyboard.n
+key_key.player-visibility.toggle:key.keyboard.unknown
 key_key.ponder.ponder:key.keyboard.w
 key_keys.weatherchanger.thunder.name:key.keyboard.unknown
 key_keys.weatherchanger.rain.name:key.keyboard.unknown

@@ -1,0 +1,10 @@
+{
+  "exportCron": "* * * * *",
+  "exportBatchSize": 50,
+  "exportChunksPerTick": 64,
+  "exportRoots": {
+    "LITEMATIC": "schemnexus-exports/litematic",
+    "SCHEM": "schemnexus-exports/schem",
+    "BP": "schemnexus-exports/bp"
+  }
+}

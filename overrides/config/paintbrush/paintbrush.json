@@ -1,0 +1,8 @@
+{
+  "paintknifeAllowDelete": false,
+  "paintknifeAllowAppend": false,
+  "paintknifeFullBlocks": "PARTIAL",
+  "paintknifeDebug": false,
+  "filterFoliage": false,
+  "disableBlockToggles": true
+}

@@ -20,7 +20,11 @@ useOnModdedBlocksByDefault = true
 
 [modCompatibility]
 hearthfire = true
+azurelib = true
 conquest = true
 conquest_armory = true
+milk = true
+create = true
 architects = true
+schemnexus = true
 minecraft = true

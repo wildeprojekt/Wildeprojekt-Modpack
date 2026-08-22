@@ -1,0 +1,17 @@
+{
+    "filter_presets": {},
+    "current_preset": "main",
+    "main_color": "BLUE",
+    "message_type": "ACTION_BAR",
+    "filter_type": "WHITELIST",
+    "hide_players": true,
+    "hide_self": false,
+    "hide_shadows": true,
+    "hide_entities": false,
+    "hide_hitboxes": true,
+    "hide_fire": true,
+    "hide_nametags": true,
+    "comfort_zone": false,
+    "comfort_distance": 3.0,
+    "comfort_falloff": 1.0
+}

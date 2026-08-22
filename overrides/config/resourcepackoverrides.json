@@ -2,17 +2,21 @@
   "schema_version": "2",
   "pack_overrides": {
     "file/Wildeprojekt_Overlay.zip": {
-      "title": "\"\ue690Wildeprojekt Assets\"",
+      "title": "\"\ue690 Wildeprojekt Assets\"",
       "required": true,
       "default_position": "TOP",
       "fixed_position": true
     },
     "file/Gentler Weather Sounds 2.2.0.zip": {
-      "title": "\"\ue332Gentler Weather Sounds\"",
+      "title": "\"\ue332 Gentler Weather Sounds\"",
       "description": "\"Made by VesMaybeVesper\"",
-      "required": true  
+      "required": true
     },
     "hearthfire:hearthfire_resource_pack": {
+      "hidden": true,
+      "required": true
+    },
+    "architects:architects_resource_pack": {
       "hidden": true,
       "required": true
     },
@@ -44,23 +48,27 @@
       "hidden": true
     },
     "conquest:rp_crrp": {
-      "title": "\"\ue689Conquest Reforged Resource Pack\"",
+      "title": "\"\ue689 Conquest Reforged Resource Pack\"",
       "description": "\"Should be enabled if using neither the ArdaCraft or Ritchfork resource packs\""
     },
-    "file/HFranz Overlay 1.0.zip": {
-      "title": "\"\ue334HFranz Overlay\"",
+    "file/HFranz_Overlay.zip": {
+      "title": "\"\ue334 HFranz Overlay\"",
       "description": "\"Overlay meant to be used on top of the ArdaCraft Resource Pack\""
     },
-    "file/ACRP 1.2.2-Fabric.zip": {
-      "title": "\"\ue691ArdaCraft Resource Pack\"",
+    "file/ACRP Architects Patch.zip": {
+      "title": "\"\ue691 ACRP Architects Patch\"",
+      "description": "\"Required to make the ACRP compatible with the latest version of Architects\""
+    },
+    "file/ACRP 1.2.5-Fabric.zip": {
+      "title": "\"\ue691 ArdaCraft Resource Pack\"",
       "description": "\"Do NOT use with the Conquest Reforged or Ritchfork resource packs\""
     },
-    "file/RitchforkOverlay-4_6.zip": {
-      "title": "\"\ue599Ritchfork Bayou Resource Pack\"",
+    "file/RitchforkOverlay-0.4.7.zip.zip": {
+      "title": "\"\ue599 Ritchfork Bayou Resource Pack\"",
       "description": "\"Do NOT use with the Conquest Reforged or ArdaCraft resource packs\""
     },
     "file/zHighlightLayers.zip": {
-      "title": "\"\ue322Layer Highlight Overlay\"",
+      "title": "\"\ue322 Layer Highlight Overlay\"",
       "description": "\"Makes layers more clearly visible when building terrain\""
     }
   }
