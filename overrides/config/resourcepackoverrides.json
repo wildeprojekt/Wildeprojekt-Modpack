@@ -53,17 +53,17 @@
     },
     "file/HFranz_Overlay.zip": {
       "title": "\"\ue334 HFranz Overlay\"",
-      "description": "\"Overlay meant to be used on top of the ArdaCraft Resource Pack\""
+      "description": "\"Overlay intended for the \u010cakov project. Requires ACRP\""
     },
     "file/ACRP Architects Patch.zip": {
       "title": "\"\ue691 ACRP Architects Patch\"",
-      "description": "\"Required to make the ACRP compatible with the latest version of Architects\""
+      "description": "\"Makes the ACRP compatible with Architects 1.0.3 (Place above ACRP)\""
     },
-    "file/ACRP 1.2.5-Fabric.zip": {
+    "file/ACRP 1.2.4-Fabric.zip": {
       "title": "\"\ue691 ArdaCraft Resource Pack\"",
       "description": "\"Do NOT use with the Conquest Reforged or Ritchfork resource packs\""
     },
-    "file/RitchforkOverlay-0.4.7.zip.zip": {
+    "file/RitchforkOverlay-0.4.7.zip": {
       "title": "\"\ue599 Ritchfork Bayou Resource Pack\"",
       "description": "\"Do NOT use with the Conquest Reforged or ArdaCraft resource packs\""
     },
