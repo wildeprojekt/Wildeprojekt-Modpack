@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "1.2",
+  "versionId": "1.2.1",
   "name": "Wildeprojekt",
   "summary": "Wildeprojekt, the Official Conquest Reforged Plots and Project Server - independently operated by the community, endorsed by the developers.",
   "files": [
@@ -1326,21 +1326,6 @@
       "fileSize": 2228035
     },
     {
-      "path": "mods/paintbrush-1.3.0.jar",
-      "hashes": {
-        "sha1": "57e23062e906702273d970fbdf4cea6b5ace761c",
-        "sha512": "2f6ce35a3516e5ced13a918666062bb239b15d7d61161cac61db0e297bd6cf5193c79ba38030c0875dbf69065526d8f014b50c5a6053bcfeae0b5f8878cb2ab8"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/v8WesXLL/versions/YZE7tTxm/paintbrush-1.3.0.jar"
-      ],
-      "fileSize": 125973
-    },
-    {
       "path": "mods/player-visibility-fabric-1.4.jar",
       "hashes": {
         "sha1": "42d971b87ae3fd5f1d6d812a94e26ecbd64a766c",
@@ -1506,21 +1491,6 @@
       "fileSize": 14427472
     },
     {
-      "path": "resourcepacks/ACRP 1.2.4-Fabric.zip",
-      "hashes": {
-        "sha1": "704cb312dcd277817973c47296238d1666a1bcc7",
-        "sha512": "93cfdc00ae52b695b32f947a1f6f63ad03bd6eb480aaa321dcfe1fdd348d6f27b774bd5f0653953f13b27fee4a3302773ef064351b9db0d2c3908608e2aad35c"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/cKEeKGdn/versions/21Vw1tsO/ACRP%201.2.4-Fabric.zip"
-      ],
-      "fileSize": 68657097
-    },
-    {
       "path": "resourcepacks/RitchforkOverlay-0.4.7.zip",
       "hashes": {
         "sha1": "6381d4db82bf2abf3d78053489a7d8c97f5c709b",
@@ -1534,6 +1504,36 @@
         "https://cdn.modrinth.com/data/PdzK7eNs/versions/3rBCuJCJ/RitchforkOverlay-0.4.7.zip"
       ],
       "fileSize": 25635285
+    },
+    {
+      "path": "mods/paintbrush-1.3.1.jar",
+      "hashes": {
+        "sha1": "e268ba60bbc2b5451f7adaec907e647c81bebe15",
+        "sha512": "eb2ed5514242796cc24909bcafba0fd6eed25d771961d4e8a4f41e250265457a86c49c12d02471ca4be97aa1097ff54553b0594d6c52ab6e83a7d7519801f195"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/v8WesXLL/versions/9xgb41fw/paintbrush-1.3.1.jar"
+      ],
+      "fileSize": 125927
+    },
+    {
+      "path": "resourcepacks/ACRP 1.2.8-Fabric.zip",
+      "hashes": {
+        "sha1": "a1c88b2db328503715462c3b0332d5097cff1e6b",
+        "sha512": "7877d5d9c0408adda9bd21a9d5cfb46627da3723643ebfb1a1cb89d9566462dcbfa65321dc5691885512dd831d11b4ece14645c2a983cbd5ac7ec5cef69317de"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/cKEeKGdn/versions/dcogk0TP/ACRP%201.2.8-Fabric.zip"
+      ],
+      "fileSize": 68843879
     }
   ],
   "dependencies": {
