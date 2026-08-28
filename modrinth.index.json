@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "1.2.1",
+  "versionId": "1.2.2",
   "name": "Wildeprojekt",
   "summary": "Wildeprojekt, the Official Conquest Reforged Plots and Project Server - independently operated by the community, endorsed by the developers.",
   "files": [
@@ -34,21 +34,6 @@
         "https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar"
       ],
       "fileSize": 1172214
-    },
-    {
-      "path": "mods/starlight-1.1.2+fabric.dbc156f.jar",
-      "hashes": {
-        "sha1": "a03102cab439cbab5a1d7d72cd7c2b4976ddd421",
-        "sha512": "6b0e363fc2d6cd2f73b466ab9ba4f16582bb079b8449b7f3ed6e11aa365734af66a9735a7203cf90f8bc9b24e7ce6409eb04d20f84e04c7c6b8e34f4cc8578bb"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2%2Bfabric.dbc156f.jar"
-      ],
-      "fileSize": 127368
     },
     {
       "path": "mods/iris-1.7.6+mc1.20.1.jar",
@@ -1491,7 +1476,7 @@
       "fileSize": 14427472
     },
     {
-      "path": "resourcepacks/RitchforkOverlay-0.4.7.zip",
+      "path": "resourcepacks/RitchforkOverlay.zip",
       "hashes": {
         "sha1": "6381d4db82bf2abf3d78053489a7d8c97f5c709b",
         "sha512": "28bd6ed0ab07b69526f0e61ef16296a062df105230f8a59eccace7165cb5d1daa56ec66831dd0b328af2ff97a8c4cf825955b65e360cb9d7c379eabb4a70d82c"
@@ -1521,7 +1506,7 @@
       "fileSize": 125927
     },
     {
-      "path": "resourcepacks/ACRP 1.2.8-Fabric.zip",
+      "path": "resourcepacks/ACRP.zip",
       "hashes": {
         "sha1": "a1c88b2db328503715462c3b0332d5097cff1e6b",
         "sha512": "7877d5d9c0408adda9bd21a9d5cfb46627da3723643ebfb1a1cb89d9566462dcbfa65321dc5691885512dd831d11b4ece14645c2a983cbd5ac7ec5cef69317de"
