@@ -97,7 +97,7 @@ key_key.mathiasfabric.smoke_ui:key.keyboard.o
 key_key.mathiasfabric.smoke_cycle_mode:key.keyboard.i
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.paintbrush.filter_foliage:key.keyboard.n
-key_key.player-visibility.toggle:key.keyboard.unknown
+key_key.player-visibility.toggle:key.keyboard.l
 key_key.ponder.ponder:key.keyboard.w
 key_key.selectiverender.toggle:key.keyboard.unknown:NONE
 key_key.selectiverender.toggle_hide:key.keyboard.f9:NONE
