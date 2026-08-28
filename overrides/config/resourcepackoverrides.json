@@ -59,11 +59,11 @@
       "title": "\"\ue691 ACRP Architects Patch\"",
       "description": "\"Makes the ACRP compatible with Architects 1.0.3 (Place above ACRP)\""
     },
-    "file/ACRP 1.2.8-Fabric.zip": {
+    "file/ACRP.zip": {
       "title": "\"\ue691 ArdaCraft Resource Pack\"",
       "description": "\"Do NOT use with the Conquest Reforged or Ritchfork resource packs\""
     },
-    "file/RitchforkOverlay-0.4.7.zip": {
+    "file/RitchforkOverlay.zip": {
       "title": "\"\ue599 Ritchfork Bayou Resource Pack\"",
       "description": "\"Do NOT use with the Conquest Reforged or ArdaCraft resource packs\""
     },
