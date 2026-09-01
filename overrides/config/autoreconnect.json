@@ -1,0 +1,10 @@
+{
+  "delays": [
+    20,
+    25,
+    30,
+    30
+  ],
+  "infinite": false,
+  "autoMessages": []
+}

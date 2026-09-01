@@ -5,11 +5,12 @@ Update:
 - Conquest Reforged Paintbrush 1.3.1 to 1.3.2
 
 Add:
-- Default Options
 - KeybindHider
 - AutoReconnect
-- Draggable Lists
 - Selective Render
+
+Remove:
+- Entity View Distance
 
 ### 1.2.1
 The Paintbrush mod fixed a bug for painting waterlogged layers

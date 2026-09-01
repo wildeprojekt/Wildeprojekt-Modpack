@@ -51,6 +51,21 @@
       "fileSize": 71415
     },
     {
+      "path": "mods/autoreconnect-2.2.1.jar",
+      "hashes": {
+        "sha1": "1f2ad89d426958dcdaab475610bc6a4e12b8741b",
+        "sha512": "f49ecc049f734ec530a6574e8bf4d41539daf2aa2f3431fcb45f5b937740f0b8c08caa0fb6b4aa66801fe7431a93877a2945b95e59c917cccb64dcf131c6804d"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/A9rziLV4/versions/pLQQC55S/autoreconnect-2.2.1.jar"
+      ],
+      "fileSize": 33013
+    },
+    {
       "path": "mods/Architects_NoVS-1.0.3-1.20.1.jar",
       "hashes": {
         "sha1": "b1fe0d2ee93d6ef994b2675d5f48be7ae88f2d95",
@@ -336,6 +351,21 @@
       "fileSize": 745947
     },
     {
+      "path": "mods/ConfigAPI-Universal-1.1.jar",
+      "hashes": {
+        "sha1": "31e808ef5511c76f8b394179b4457c908c545201",
+        "sha512": "a2fbc5c14fcb8caee9266e863c08d8265a6db841f46f1366b4c5c46edd7be9e634ece2ad151ef09acbad607be1e3de6d16b26506f10842df6f07c9723ef5825e"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lmnH17AA/versions/zGLnuZKg/ConfigAPI-Universal-1.1.jar"
+      ],
+      "fileSize": 13060
+    },
+    {
       "path": "mods/ConquestReforged-fabric-1.20.1-1.7.0.jar",
       "hashes": {
         "sha1": "21eccf1eb5c70c2a1c2b0ad8c5a0de67642df9a1",
@@ -484,21 +514,6 @@
         "https://cdn.modrinth.com/data/BVzZfTc1/versions/v0btz5GE/entity_texture_features_1.20.1-fabric-7.1.jar"
       ],
       "fileSize": 753298
-    },
-    {
-      "path": "mods/entity-view-distance-1.1.2+1.20.jar",
-      "hashes": {
-        "sha1": "2e622aefb07caef0686c0a4c36952521edbd840a",
-        "sha512": "88734a12b2ea97468ec4b3ae06c923915a568d25fa21102c51469f762270980ed1cfec106c2884a55e28428384dbce251161ea70fda366302ab4f04adc964223"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/ihnBJ6on/versions/piYJfUyC/entity-view-distance-1.1.2%2B1.20.jar"
-      ],
-      "fileSize": 245942
     },
     {
       "path": "mods/entityculling-fabric-1.10.5-mc1.20.1.jar",
@@ -724,6 +739,21 @@
         "https://cdn.modrinth.com/data/pgz6omHw/versions/UogA3StE/jaggiesbegone-1.0-1.20.1.jar"
       ],
       "fileSize": 34500
+    },
+    {
+      "path": "mods/KeybindHider-Fabric-1.20.1-1.3.1.jar",
+      "hashes": {
+        "sha1": "9e71acbbf90f11145dbdc161a44550ae76b93cfb",
+        "sha512": "a1596ef3e5779287d52ed56e8cb1346096d357df32e58bdbcc7abb1da701d4a6bb7b5c88b3e48096ec11ed5e0d27cb225ffdcc678bf83b18e85196f889acabfc"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/MVgNXRxk/versions/zKsjvASu/KeybindHider-Fabric-1.20.1-1.3.1.jar"
+      ],
+      "fileSize": 126947
     },
     {
       "path": "mods/Kiwi-1.20.1-Fabric-11.10.3.jar",
@@ -1161,6 +1191,21 @@
       "fileSize": 80283
     },
     {
+      "path": "mods/selective-render-1.8.0.jar",
+      "hashes": {
+        "sha1": "454207d724ac93f0fc2aafebe525d77918961b3d",
+        "sha512": "107280c3657a8839fb897c91db236ee93f06bd528d32f1c675713374daabd16e2d89d72c1ac1db68d9fa8cd262788826edd6f2ef3bcb49f8c3e97039e418388e"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/k67hTOB6/versions/eIsil41V/selective-render-1.8.0.jar"
+      ],
+      "fileSize": 303073
+    },
+    {
       "path": "mods/servercore-fabric-1.5.2+1.20.1.jar",
       "hashes": {
         "sha1": "681757921997f3ab8455a968bf77ee4f305b82ed",
@@ -1461,7 +1506,7 @@
       "fileSize": 1294234
     },
     {
-      "path": "resourcepacks/ACRP 1.2.8-Fabric.zip",
+      "path": "resourcepacks/ACRP.zip",
       "hashes": {
         "sha1": "a1c88b2db328503715462c3b0332d5097cff1e6b",
         "sha512": "7877d5d9c0408adda9bd21a9d5cfb46627da3723643ebfb1a1cb89d9566462dcbfa65321dc5691885512dd831d11b4ece14645c2a983cbd5ac7ec5cef69317de"
@@ -1476,7 +1521,7 @@
       "fileSize": 68843879
     },
     {
-      "path": "resourcepacks/RitchforkOverlay-0.4.7.zip",
+      "path": "resourcepacks/RitchforkOverlay.zip",
       "hashes": {
         "sha1": "6381d4db82bf2abf3d78053489a7d8c97f5c709b",
         "sha512": "28bd6ed0ab07b69526f0e61ef16296a062df105230f8a59eccace7165cb5d1daa56ec66831dd0b328af2ff97a8c4cf825955b65e360cb9d7c379eabb4a70d82c"
