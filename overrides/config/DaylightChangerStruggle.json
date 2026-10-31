@@ -1,5 +1,5 @@
 {
-    "worldTime": false,
+    "worldTime": true,
     "dateOverTicks": false,
     "smoothButterCycle": true,
     "disableNightVisionEffect": false,
@@ -10,7 +10,7 @@
     "activeDaylightChanger": "statictime",
     "cyclesSection": {
         "statictime": {
-            "worldtime": 4000
+            "worldtime": 6000
         }
     }
 }

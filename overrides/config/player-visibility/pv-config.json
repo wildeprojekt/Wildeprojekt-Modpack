@@ -1,5 +1,7 @@
 {
-    "filter_presets": {},
+    "filter_presets": {
+        "main": []
+    },
     "current_preset": "main",
     "main_color": "BLUE",
     "message_type": "ACTION_BAR",

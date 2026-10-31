@@ -55,6 +55,10 @@
       "title": "\"\ue334 HFranz Overlay\"",
       "description": "\"Overlay intended for the \u010cakov project. Requires ACRP\""
     },
+    "file/Circinus-Overlay.zip": {
+      "title": "\"\uf007 Circinus Overlay\"",
+      "description": "\"Overlay intended for the Circinus project. Requires ACRP\""
+    },
     "file/ACRP Architects Patch.zip": {
       "title": "\"\ue691 ACRP Architects Patch\"",
       "description": "\"Makes the ACRP compatible with Architects 1.0.3 (Place above ACRP)\""

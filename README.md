@@ -1,10 +1,24 @@
 ## Wildeprojekt Modpack Changelog
 ### 1.2.2
-The more Paintbrush bug and QoL fixes
 Update:
 - Conquest Reforged Paintbrush 1.3.1 to 1.3.2
+- ArdaCraft Resource Pack 1.2.8 to 1.2.9
+- EMF 3.2.4 - 3.3.12
+- ETF 7.1 - 7.2.6
+- AmbientSounds 6.3.8 to 6.3.11
+- Axiom 5.4.2 to 6.1.5
+- Bad Horse Fix 3.0.1 to 4.0.0
+- Collective 8.39 to 8.72
+- CreativeCore 2.12.39 to 2.12.41
+- EntityCulling 1.10.5 to 1.11.3
+- Fabric API 0.92.11 to 0.92.12
+- Fabric 
+- Fabric Language Kotlin 1.13.13 to 1.14.2
+- Ixeris 4.6.5 to 4.6.11
+- SchemNexus 1.0.2 to 1.0.3
 
 Add:
+- Circinus Overlay
 - KeybindHider
 - AutoReconnect
 - Selective Render
