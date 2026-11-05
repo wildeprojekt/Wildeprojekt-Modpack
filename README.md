@@ -1,5 +1,10 @@
 ## Wildeprojekt Modpack Changelog
 ### 1.2.2
+Internal:
+- Added keybind to quickly open resource pack menu (Default key: L)
+- Retextured creative mode tools (WorldEdit wand, Debug Stick, Mallet)
+
+External:
 Update:
 - Fabric 0.19.5 to 0.20.1
 - Fabric API 0.92.11 to 0.92.12
@@ -9,9 +14,9 @@ Update:
 - Bad Horse Fix 3.0.1 to 4.0.0
 - Collective 8.39 to 8.72
 - CreativeCore 2.12.39 to 2.12.41
-- EMF 3.2.4 - 3.3.12
+- Entity Model Features 3.2.4 - 3.3.12
+- Entity Texture Features 7.1 - 7.2.6
 - EntityCulling 1.10.5 to 1.11.3
-- ETF 7.1 - 7.2.6
 - Fabric Language Kotlin 1.13.13 to 1.14.2
 - Ixeris 4.6.5 to 4.6.11
 - SchemNexus 1.0.2 to 1.0.3
