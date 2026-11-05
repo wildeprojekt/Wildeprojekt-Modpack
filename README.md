@@ -1,10 +1,13 @@
 ## Wildeprojekt Modpack Changelog
 ### 1.2.2
-Internal:
+Highlights:
+- Bug fixes and quality of life updates in CR Paintbrush
+- Cleaned up key binds menu
+- Added selective render to allow for nicer screenshots of slots
+- Fixed rendering issues with signs and shulkers
 - Added keybind to quickly open resource pack menu (Default key: L)
 - Retextured creative mode tools (WorldEdit wand, Debug Stick, Mallet)
 
-External:
 Update:
 - Fabric 0.19.5 to 0.20.1
 - Fabric API 0.92.11 to 0.92.12
@@ -20,7 +23,7 @@ Update:
 - Fabric Language Kotlin 1.13.13 to 1.14.2
 - Ixeris 4.6.5 to 4.6.11
 - SchemNexus 1.0.2 to 1.0.3
-- ArdaCraft Resource Pack 1.2.8 to 1.2.9
+- ArdaCraft Resource Pack 1.2.8 to 1.2.10
 
 Add:
 - Circinus Overlay
