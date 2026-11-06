@@ -1,0 +1,47 @@
+{
+  "formatVersion": 5,
+  "plotGrids": {},
+  "menuNavigation": {
+    "tab": "PLOTS",
+    "scrolls": {
+      "BOUNDARIES": 0,
+      "PLOTS": 0,
+      "GENERAL": 0,
+      "INTERACTIONS": 0
+    },
+    "regions": {
+      "server:build.wildeprojekt.org": {
+        "entries": {},
+        "collapsed": [],
+        "scroll": 0,
+        "navigationScroll": 0,
+        "filtersOpen": false,
+        "boundariesOpen": false,
+        "interactionsOpen": false,
+        "boxesOpen": false
+      }
+    }
+  },
+  "playerVisibility": "EVERYWHERE",
+  "playerGroup": "EVERYONE",
+  "playerScope": "EVERYWHERE",
+  "interactionMode": "INSIDE",
+  "boundaryMode": "NORMAL",
+  "boundaryColor": 0,
+  "boundaryOpacity": 100,
+  "boundaryColorLighting": false,
+  "boundaryNormal": true,
+  "boundaryRainbow": false,
+  "boundaryTexture": "minecraft:stone",
+  "cullFluidBoundaryFaces": false,
+  "worldEditSelection": true,
+  "debugBoxes": false,
+  "filterInteractionsWhenInactive": false,
+  "blockFiltersEnabled": true,
+  "interactWithHiddenRegions": false,
+  "virtualLightMode": "BOTH",
+  "hiddenVirtualLightMode": "BOTH",
+  "fullReloadThreshold": 8192,
+  "defaultPlotMinY": -64,
+  "defaultPlotMaxY": 319
+}

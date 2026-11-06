@@ -1,5 +1,6 @@
 {
   "keybinds": {
+    "useVanillaMovement": true,
     "regularKeybinds": {
       "rotateCamera": "mouseleft",
       "pickBlock": "mousemiddle",
@@ -216,6 +217,7 @@
     "tallGrassIsActuallyNotTall": false,
     "disableChunkRenderOverrider": false,
     "hadEditorUIOpen": false,
-    "blueprintBrowserDirSize": 175
+    "blueprintBrowserDirSize": 175,
+    "usedBuilderToolFill": false
   }
 }
