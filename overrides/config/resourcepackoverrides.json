@@ -49,31 +49,31 @@
     },
     "conquest:rp_crrp": {
       "title": "\"\ue689 Conquest Reforged Resource Pack\"",
-      "description": "\"Should be enabled if using neither the ArdaCraft or Ritchfork resource packs\""
+      "description": "\"[Core] Enable if not using other core resource packs (e.g. ACRP)\n\""
     },
     "file/HFranz_Overlay.zip": {
-      "title": "\"\ue334 HFranz Overlay\"",
-      "description": "\"Overlay intended for the \u010cakov project. Requires CRRP\""
+      "title": "\"\uf001 Project \u010cakov\"",
+      "description": "\"[Core] Resource pack for \u010cakov\""
     },
     "file/Circinus-Overlay.zip": {
-      "title": "\"\uf007 Circinus Overlay\"",
-      "description": "\"Overlay intended for the Circinus project. Requires ACRP\""
+      "title": "\"\uf007 Project Circinus\"",
+      "description": "\"[Overlay] Resource pack for Circinus\n(Requires ACRP)\""
     },
     "file/ACRP Architects Patch.zip": {
       "title": "\"\ue691 ACRP Architects Patch\"",
-      "description": "\"Makes the ACRP compatible with Architects 1.0.3 (Place above ACRP)\""
+      "description": "\"Makes Architects 1.0.3 consistent with the ACRP (Place above ACRP)\""
     },
     "file/ACRP.zip": {
       "title": "\"\ue691 ArdaCraft Resource Pack\"",
-      "description": "\"Do NOT use with the Conquest Reforged or Ritchfork resource packs\""
+      "description": "\"[Core] Do NOT use with other core resource packs\""
     },
     "file/RitchforkOverlay.zip": {
       "title": "\"\ue599 Ritchfork Bayou Resource Pack\"",
-      "description": "\"Do NOT use with the Conquest Reforged or ArdaCraft resource packs\""
+      "description": "\"[Core] Do NOT use with other core resource packs\""
     },
     "file/zHighlightLayers.zip": {
-      "title": "\"\ue322 Layer Highlight Overlay\"",
-      "description": "\"Makes layers more clearly visible when building terrain\""
+      "title": "\"\ue322 Highlight Layers\"",
+      "description": "\"[Debug] Makes layers more clearly visible when building terrain\""
     }
   }
 }
