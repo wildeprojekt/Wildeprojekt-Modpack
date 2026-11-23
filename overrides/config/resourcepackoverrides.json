@@ -51,25 +51,25 @@
       "title": "\"\ue689 Conquest Reforged Resource Pack\"",
       "description": "\"[Core] Enable if not using other core resource packs (e.g. ACRP)\n\""
     },
+    "file/RitchforkOverlay.zip": {
+      "title": "\"\ue599 Ritchfork Bayou Resource Pack\"",
+      "description": "\"[Core] Do NOT use with other core resource packs\""
+    },
     "file/HFranz_Overlay.zip": {
       "title": "\"\uf001 Project \u010cakov\"",
       "description": "\"[Core] Resource pack for \u010cakov\""
-    },
-    "file/Circinus-Overlay.zip": {
-      "title": "\"\uf007 Project Circinus\"",
-      "description": "\"[Overlay] Resource pack for Circinus\n(Requires ACRP)\""
-    },
-    "file/ACRP Architects Patch.zip": {
-      "title": "\"\ue691 ACRP Architects Patch\"",
-      "description": "\"Makes Architects 1.0.3 consistent with the ACRP (Place above ACRP)\""
     },
     "file/ACRP.zip": {
       "title": "\"\ue691 ArdaCraft Resource Pack\"",
       "description": "\"[Core] Do NOT use with other core resource packs\""
     },
-    "file/RitchforkOverlay.zip": {
-      "title": "\"\ue599 Ritchfork Bayou Resource Pack\"",
-      "description": "\"[Core] Do NOT use with other core resource packs\""
+    "file/ACRP Architects Patch.zip": {
+      "title": "\"\ue691 ACRP Architects Patch\"",
+      "description": "\"Makes Architects 1.0.3 consistent with the ACRP (Place above ACRP)\""
+    },
+    "file/Circinus-Overlay.zip": {
+      "title": "\"\uf007 Project Circinus\"",
+      "description": "\"[Overlay] Resource pack for Circinus\n(Requires ACRP)\""
     },
     "file/zHighlightLayers.zip": {
       "title": "\"\ue322 Highlight Layers\"",
