@@ -19,9 +19,10 @@ Update:
 - CreativeCore 2.12.39 to 2.12.41
 - Entity Model Features 3.2.4 - 3.3.12
 - Entity Texture Features 7.1 - 7.2.6
-- EntityCulling 1.10.5 to 1.11.3
+- EntityCulling 1.10.5 to 1.12.2
 - Fabric Language Kotlin 1.13.13 to 1.14.2
 - Ixeris 4.6.5 to 4.6.11
+- No Chat Reports 2.2.3 to 2.2.6
 - SchemNexus 1.0.2 to 1.0.3
 - ArdaCraft Resource Pack 1.2.8 to 1.2.10
 
