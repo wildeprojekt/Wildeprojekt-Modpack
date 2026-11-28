@@ -516,19 +516,19 @@
       "fileSize": 808025
     },
     {
-      "path": "mods/entityculling-fabric-1.11.3-mc1.20.1.jar",
+      "path": "mods/entityculling-fabric-1.12.2-mc1.20.1.jar",
       "hashes": {
-        "sha1": "42d17e5455f5015fa9b9c918a9b599683ff83f1c",
-        "sha512": "6bb4af050ec3bb5f4e2f76b33abc2bb6e0096c94849ba728979200beddeed8b2c3a5a962ecbec9cf79f11a99ba996a847814f1aabdb8ffad54105800fc0fed72"
+        "sha1": "6c8f57ac4666f8fca5ee332ef7ca7a6e530ff7f0",
+        "sha512": "dcf44e1df366530b65a3b5a3f5bb2a2355ccf45e8e57675ce55d06cf805d5c69a96a16e691e57752a488a65a6c4f1b7c27e191da9feed6734730ffd3ed8ed812"
       },
       "env": {
         "server": "unsupported",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/xSrd3qsM/entityculling-fabric-1.11.3-mc1.20.1.jar"
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/rYDYcz8z/entityculling-fabric-1.12.2-mc1.20.1.jar"
       ],
-      "fileSize": 1516696
+      "fileSize": 1531140
     },
     {
       "path": "mods/fabric-api-0.92.12+1.20.1.jar",
@@ -966,19 +966,19 @@
       "fileSize": 77943
     },
     {
-      "path": "mods/NoChatReports-FABRIC-1.20.1-v2.2.3.jar",
+      "path": "mods/NoChatReports-FABRIC-MC1.20.1-v2.2.6.jar",
       "hashes": {
-        "sha1": "c81e884459079ff06d6d4c638c47b9664812e825",
-        "sha512": "38e492a0acf2f7e74af8e73f96c0281b23f041cd19c681acd52aae0a7cfc63a36b09fbcfb95df5e05a8ed8bab5c1e5574388776ceaa87b2ca9052e3f2c576e71"
+        "sha1": "1821fb823e3b9497fa7419567cc910b0a4a8e9d9",
+        "sha512": "b0a298b1b0b7eb01c7996678f99d3275605bca5eaffc12e43c916b6e77d712428bc2f147b3d85573c6099256c041524e532766718278393ceace0e5108ee4492"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/qQyHxfxd/versions/nBoj6rD0/NoChatReports-FABRIC-1.20.1-v2.2.3.jar"
+        "https://cdn.modrinth.com/data/qQyHxfxd/versions/Qg7Ovjuy/NoChatReports-FABRIC-MC1.20.1-v2.2.6.jar"
       ],
-      "fileSize": 620317
+      "fileSize": 548150
     },
     {
       "path": "mods/NoChatRestrictions-Fabric-MC1.20.1-v1.0.0.jar",
@@ -1354,21 +1354,6 @@
         "https://cdn.modrinth.com/data/2RKFTmiB/versions/B2L4LeMV/tooltipfix-1.1.1-1.20.jar"
       ],
       "fileSize": 12432
-    },
-    {
-      "path": "mods/vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
-      "hashes": {
-        "sha1": "46e896cabf7813275413c97e6dd2f48ef534057d",
-        "sha512": "38ba14d870ddbcef233c9baa399005aaccde95d7b77175aa3a795eb9fed1086492b4ac5c6bbc05909dd76dce1b19b5c26613585161c2f3d20f2494beb8b23fe4"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/wnEe9KBa/versions/sV8lIBhJ/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.102-all.jar"
-      ],
-      "fileSize": 487043
     },
     {
       "path": "mods/weather-changer-fabric-1.0.1.jar",
